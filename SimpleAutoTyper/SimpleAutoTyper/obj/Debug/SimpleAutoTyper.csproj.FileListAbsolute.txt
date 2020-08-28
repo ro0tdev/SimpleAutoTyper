@@ -1,0 +1,10 @@
+C:\Users\djtox\source\repos\SimpleAutoTyper\SimpleAutoTyper\bin\Debug\SimpleAutoTyper.exe.config
+C:\Users\djtox\source\repos\SimpleAutoTyper\SimpleAutoTyper\bin\Debug\SimpleAutoTyper.exe
+C:\Users\djtox\source\repos\SimpleAutoTyper\SimpleAutoTyper\bin\Debug\SimpleAutoTyper.pdb
+C:\Users\djtox\source\repos\SimpleAutoTyper\SimpleAutoTyper\obj\Debug\SimpleAutoTyper.csprojAssemblyReference.cache
+C:\Users\djtox\source\repos\SimpleAutoTyper\SimpleAutoTyper\obj\Debug\SimpleAutoTyper.Form1.resources
+C:\Users\djtox\source\repos\SimpleAutoTyper\SimpleAutoTyper\obj\Debug\SimpleAutoTyper.Properties.Resources.resources
+C:\Users\djtox\source\repos\SimpleAutoTyper\SimpleAutoTyper\obj\Debug\SimpleAutoTyper.csproj.GenerateResource.cache
+C:\Users\djtox\source\repos\SimpleAutoTyper\SimpleAutoTyper\obj\Debug\SimpleAutoTyper.csproj.CoreCompileInputs.cache
+C:\Users\djtox\source\repos\SimpleAutoTyper\SimpleAutoTyper\obj\Debug\SimpleAutoTyper.exe
+C:\Users\djtox\source\repos\SimpleAutoTyper\SimpleAutoTyper\obj\Debug\SimpleAutoTyper.pdb
